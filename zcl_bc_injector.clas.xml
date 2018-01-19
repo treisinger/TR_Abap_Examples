@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Hardy: Dependency Injector</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>CREATE_PARAMETER_OBJECT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create Object Instance Parameter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>CREATE_VIA_INJECTION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create an Object Instance via Dependency Injection</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>DATA_ELEMENT_PARAMETER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Assign an elementray data object parameter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>DETERMINE_CLASS_TO_CREATE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Determine exact type of class to create</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>DURING_CONSTRUCTION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Add Paramater Name &amp; Value to &quot;Stack&quot;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>FILL_CONSTRUCTOR_PARAMETERS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Fill Constructor Parameters</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>INSTEAD_OF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Add Specific Class to Implement to &quot;Stack&quot;</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_BC_INJECTOR</CLSNAME>
+     <CMPNAME>OBJECT_PARAMETER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Assign an object instance parameter</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
