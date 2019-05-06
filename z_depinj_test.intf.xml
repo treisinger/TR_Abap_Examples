@@ -4,7 +4,6 @@
   <asx:values>
    <VSEOINTERF>
     <CLSNAME>Z_DEPINJ_TEST</CLSNAME>
-    <VERSION>1</VERSION>
     <LANGU>D</LANGU>
     <DESCRIPT>DI TAG Inteface Test</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>

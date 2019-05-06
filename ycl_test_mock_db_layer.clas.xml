@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZDI_TEST</CLSNAME>
+    <CLSNAME>YCL_TEST_MOCK_DB_LAYER</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Shore: Dependency Injection test implementation</DESCRIPT>
+    <DESCRIPT>Hardy: Test Double DB Layer</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
